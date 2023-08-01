@@ -23,7 +23,7 @@ defaults:
 
 jobs:
     preview:
-        name: "Preview"
+        name: "terraform CI"
         runs-on: ubuntu-latest
         steps:
             - name: Checkout repository
